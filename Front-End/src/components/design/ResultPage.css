@@ -1,0 +1,12 @@
+.hyperLink{
+    color: rgb(1, 131, 1);
+}
+.hyperLink:hover{
+    color:lightgreen;
+}
+.centerDiv{
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%, -50%);
+}

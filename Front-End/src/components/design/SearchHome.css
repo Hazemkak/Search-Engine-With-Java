@@ -1,0 +1,32 @@
+.navbarText{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    color: rgb(236, 236, 236);
+}
+.searchTitle{
+    color: yellowgreen;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 8%;
+    font-weight: bold;
+}
+.webResult{
+    text-align: left;
+    border: 1px solid rgba(207, 203, 203, 0.225);
+    border-radius: 10px;
+    margin:1% 4% 1% 4%;
+}
+  
+.webResult:hover{
+    border-radius: 10px;
+    border: 1px solid rgba(0, 0, 0, .125);
+    box-shadow: 0 .155rem .35rem rgba(0, 0, 0, .075);
+}
+
+.searchResult{
+    padding-left: 5%;
+}
+
+.hrResult{
+    margin-left: 3%;
+    margin-right: 3%;
+}

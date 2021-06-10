@@ -1,0 +1,13 @@
+.divStyle{
+    width:2rem;
+    height:2rem;
+    display:flex;
+    justify-content: space-around;
+}
+/* .ballStyle{
+    display:block;
+    width: 1rem;
+    height: 1rem;
+    background-color: black;
+    border-radius: 0.5rem;
+} */
