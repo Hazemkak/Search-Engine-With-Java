@@ -23,7 +23,7 @@ the front-end is done by React.js whenerver the user searcha word the React.js "
 - Java
 - Spring Boot
 - React.js
-- Paralled Programming
+- Parallel Programming
 - MySQL
 
 ---
